@@ -1,6 +1,6 @@
 # Alicia Kate Bactasa
 
-### Software Developer in progress | React Native • Web • Data Structures • Creative Systems
+### Software Developer in progress (hopefully!) | React Native • Web • Data Structures • Creative Systems • UI/UX Design • React
 
 I build projects that mix functionality with experience design.  
 From calming mobile apps to experimental web tools, I focus on learning through building.
@@ -10,7 +10,7 @@ From calming mobile apps to experimental web tools, I focus on learning through 
 ## ✦ Dynamic Identity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=React+Native+Developer;Web+Explorer;Data+Structures+Learner;UI%2FUX+Experimenter;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishie!;Software+Developer+in+progress;React+Native+%7C+Web+%7C+DSA+Learner;Building+interactive+systems;Always+learning+something+new" />
 </p>
 
 ---
@@ -25,35 +25,9 @@ From calming mobile apps to experimental web tools, I focus on learning through 
 ---
 
 ## Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,ts,html,css,react,tailwind,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,tailwind,nodejs,express,postgres,mysql,linux,bash,git,github,vscode,figma,postman" />
 </p>
-
----
-
-## Featured Projects
-### Abyssal Flow
-Deep-sea themed React Native period tracker where UI shifts based on cycle phases.
-### DriveGo
-Donation coordination platform for centralized contribution management.
-### MoodyChimi
-Interactive mood-based character generator with motivational outputs.
-### Ishi-To-Go
-Pixel-style task and budget planner with interactive visuals.
-### Codingspace-for-ishie
-Personal coding sandbox with problem-solving and test execution tools.
-### Sorting Time Comparison
-Data analysis project exploring sorting performance on large datasets.
----
-
-## Learning Focus
-
-- Data Structures and Algorithms (C)
-- PostgreSQL backend systems
-- Clean scalable architecture
-- System design fundamentals
-
 ---
 
 ## Snake Contribution Animation
@@ -64,10 +38,10 @@ Data analysis project exploring sorting performance on large datasets.
 
 ---
 
-## Dev Style
+## Style
 
 - Build small → test → break → rebuild better  
-- Focus on clarity before complexity  
+- Focusing on clarity before complexity  
 ---
 <!--
 **Alicia-Kate-Bactasa/Alicia-Kate-Bactasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
