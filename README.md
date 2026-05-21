@@ -1,16 +1,7 @@
 # Alicia Kate Bactasa
-
-### Software Developer in progress (hopefully!) | React Native • Web • Data Structures • Creative Systems • UI/UX Design • React
-
-I build projects that mix functionality with experience design.  
-From calming mobile apps to experimental web tools, I focus on learning through building.
-
----
-
-## ✦ Dynamic Identity
-
+### Hi I'm Ishie...
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishie!;Software+Developer+in+progress;React+Native+%7C+Web+%7C+DSA+Learner;Building+interactive+systems;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishie!" />
 </p>
 
 ---
