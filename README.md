@@ -32,50 +32,19 @@ From calming mobile apps to experimental web tools, I focus on learning through 
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alicia-Kate-Bactasa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alicia-Kate-Bactasa&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicia-Kate-Bactasa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicia-Kate-Bactasa&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## Featured Projects
-
 ### Abyssal Flow
 Deep-sea themed React Native period tracker where UI shifts based on cycle phases.
-
 ### DriveGo
 Donation coordination platform for centralized contribution management.
-
 ### MoodyChimi
 Interactive mood-based character generator with motivational outputs.
-
 ### Ishi-To-Go
 Pixel-style task and budget planner with interactive visuals.
-
 ### Codingspace-for-ishie
 Personal coding sandbox with problem-solving and test execution tools.
-
 ### Sorting Time Comparison
 Data analysis project exploring sorting performance on large datasets.
-
 ---
 
 ## Learning Focus
