@@ -1,5 +1,5 @@
 # Alicia Kate Bactasa
-### Hi pls call me ishie or ill get uncomfortable...
+### Hi pls call me ishie...
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishie!" />
 </p>
@@ -7,12 +7,7 @@
 ---
 
 ## About Me
-
-- IT student focused on full-stack development and problem solving  
-- Currently improving C, JavaScript, TypeScript, and React Native  
-- Interested in interactive UI/UX systems  
-- I like turning small ideas into full working systems  
-
+- IT student focused on full-stack development and problem solving.
 ---
 
 ## Tech Stack
