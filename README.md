@@ -17,19 +17,6 @@
 
 ---
 
-## Snake Moving >0<
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## Style
-
-- Build small → test → break → rebuild better  
-- Focusing on clarity before complexity  
----
 <!--
 **Alicia-Kate-Bactasa/Alicia-Kate-Bactasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
