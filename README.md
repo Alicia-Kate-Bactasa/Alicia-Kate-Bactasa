@@ -6,10 +6,6 @@
 
 ---
 
-## About Me
-- IT student focused on full-stack development and problem solving.
----
-
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,tailwind,nodejs,express,postgres,mysql,linux,bash,git,github,vscode,figma,postman" />
