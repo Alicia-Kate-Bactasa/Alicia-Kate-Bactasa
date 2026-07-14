@@ -1,9 +1,5 @@
 # Alicia Kate Bactasa
 ### Hi pls call me ishie...
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishie!" />
-</p>
-
 ---
 
 ## Tech Stack
