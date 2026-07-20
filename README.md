@@ -1,5 +1,5 @@
 # Alicia Kate Bactasa
-> An aspiring Full-Stack Developer specializing in Database Development and Data Analytics
+
 ---
 
 ## Tech Stack
