@@ -25,6 +25,7 @@ Relational databases, ORMs, and backend runtime environments.
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Frameworks & Tools
 Frontend libraries, mobile frameworks, and developer tooling.
