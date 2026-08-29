@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=003b5c&height=150&text=Tech%20Stack&fontColor=ffffff&fontSize=60" width="100%" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=003b5c&height=70&text=My%20Tech%20Stack..!&fontColor=ffffff&fontSize=20" width="100%" alt="My Tech Stack!" />
 </div>
 
 ### Languages
