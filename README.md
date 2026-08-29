@@ -1,4 +1,4 @@
-## Tech Stack
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-004B73?style=for-the-badge&labelColor=002A40&color=004B73)
 
 ### Languages
 Languages and core syntax used across my software projects.
@@ -46,3 +46,4 @@ Frontend libraries, mobile frameworks, and developer tooling.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
