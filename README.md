@@ -1,4 +1,6 @@
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-004B73?style=for-the-badge&labelColor=002A40&color=004B73)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=003b5c&height=150&text=Tech%20Stack&fontColor=ffffff&fontSize=60" width="100%" alt="Tech Stack" />
+</div>
 
 ### Languages
 Languages and core syntax used across my software projects.
