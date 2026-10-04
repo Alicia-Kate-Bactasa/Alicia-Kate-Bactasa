@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=003b5c&height=70&text=My%20Tech%20Stack..!&fontColor=ffffff&fontSize=20" width="100%" alt="My Tech Stack!" />
 </div>
 
+## Know more about me!
+> https://alicia-tech-portfolio.vercel.app/  
 ### Languages
 Languages and core syntax used across my software projects.
 
